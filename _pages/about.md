@@ -9,7 +9,7 @@ redirect_from:
 
 I am an incoming PhD student in the [Department of Statistics and Data Science](https://sds.wustl.edu/) at [Washington University in St. Louis](https://washu.edu/). I have previously pursued my Bachelor of Science with Honours in Statistics from [St. Xavier's College (Autonomous), Kolkata](sxccal.edu) and my Master of Statistics from [Indian Statistical Institute](https://www.isical.ac.in/). During my Master's program I have done my Master's project titled "Covariance Estimation for Sparsely Observed Functional Data" under the supervision of [Prof. Soham Sarkar](https://sites.google.com/view/sohamsarkar). 
 
-
+My research interests are mainly regarding statistical theories and methods in the fields of Functional Data Analysis, High Dimensional Data Analysis, Statistical Computing, Non-parametric Methods and Bayesian Inference.
 
 A data-driven personal website
 ======
