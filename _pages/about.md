@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an incoming PhD student in the [Department of Statistics and Data Science](https://sds.wustl.edu/) at [Washington University in St. Louis](https://washu.edu/). 
+I am an incoming PhD student in the [Department of Statistics and Data Science](https://sds.wustl.edu/) at [Washington University in St. Louis](https://washu.edu/). I have previously pursued my Bachelor of Science with Honours in Statistics from [St. Xavier's College (Autonomous), Kolkata](sxccal.edu) and my Master of Statistics from [Indian Statistical Institute](https://www.isical.ac.in/). During my Master's program I have done my Master's project titled "Covariance Estimation for Sparsely Observed Functional Data" under the supervision of [Prof. Soham Sarkar](https://sites.google.com/view/sohamsarkar). 
 
 
 
