@@ -11,6 +11,8 @@ I am an incoming PhD student in the [Department of Statistics and Data Science](
 
 My research interests are mainly regarding statistical theories and methods in the fields of Functional Data Analysis, High Dimensional Data Analysis, Statistical Computing, Non-parametric Methods and Bayesian Inference.
 
+Besides statistics I am also interested in photography, books and movies.
+
 <!---
 A data-driven personal website
 ======
